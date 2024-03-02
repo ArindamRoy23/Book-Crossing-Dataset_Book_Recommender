@@ -1,5 +1,16 @@
-This notebook is a collection of recommender systems for books. This was initially built on colab.
-Link to colab: https://colab.research.google.com/drive/1m99qifQb3ga2VahMe5WNR6gAAMmiWdtJ?authuser=1#scrollTo=BE1C45oSGLIz
+# Book Recommender Systems
+
+This notebook is a collection of three differnt recommender systems for books. It also has approaches to combbinr them. 
+Three methods are: 
+
+* Colabrative filtering (Cosine Matching)
+* Graph based Clustering
+* Content Based Filtering with LLMs   
+
+
+
+This was initially built on colab.
+Link to [colab]([url](https://colab.research.google.com/drive/1m99qifQb3ga2VahMe5WNR6gAAMmiWdtJ?authuser=1#scrollTo=BE1C45oSGLIz))
 
 
 ![Slide1](https://github.com/ArindamRoy23/Book-Crossing-Dataset_Book_Recommender/blob/main/Book%20Recommender/Slide1.JPG)
