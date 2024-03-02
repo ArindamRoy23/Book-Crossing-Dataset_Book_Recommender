@@ -1,8 +1,9 @@
 # Book Recommender Systems
 
-This notebook is a collection of three differnt recommender systems for books. It also has approaches to combbinr them. 
-Three methods are: 
+This notebook is a collection of three differnt recommender systems for books. It also has approaches to combine them. 
 
+
+The three methods are: 
 * Colabrative filtering (Cosine Matching)
 * Graph based Clustering
 * Content Based Filtering with LLMs   
