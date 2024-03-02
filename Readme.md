@@ -1,3 +1,7 @@
+This notebook is a collection of recommender systems for books. This was initially built on colab.
+Link to colab: https://colab.research.google.com/drive/1m99qifQb3ga2VahMe5WNR6gAAMmiWdtJ?authuser=1#scrollTo=BE1C45oSGLIz
+
+
 ![Slide1](https://github.com/ArindamRoy23/Book-Crossing-Dataset_Book_Recommender/blob/main/Book%20Recommender/Slide1.JPG)
 ![Slide1](https://github.com/ArindamRoy23/Book-Crossing-Dataset_Book_Recommender/blob/main/Book%20Recommender/Slide2.JPG)
 ![Slide1](https://github.com/ArindamRoy23/Book-Crossing-Dataset_Book_Recommender/blob/main/Book%20Recommender/Slide3.JPG)
