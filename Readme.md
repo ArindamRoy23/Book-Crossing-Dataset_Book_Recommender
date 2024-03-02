@@ -1,1 +1,1 @@
-![Slide 1](Book Recommender\Slide1.JPG)
+![Slide 1]([Book Recommender\Slide1.JPG](https://github.com/ArindamRoy23/Book-Crossing-Dataset_Book_Recommender/blob/main/Book%20Recommender/Slide1.JPG)https://github.com/ArindamRoy23/Book-Crossing-Dataset_Book_Recommender/blob/main/Book%20Recommender/Slide1.JPG)
