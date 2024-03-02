@@ -10,7 +10,7 @@ Three methods are:
 
 
 This was initially built on colab.
-Link to [colab]([url](https://colab.research.google.com/drive/1m99qifQb3ga2VahMe5WNR6gAAMmiWdtJ?authuser=1#scrollTo=BE1C45oSGLIz))
+Link to [colab](https://colab.research.google.com/drive/1m99qifQb3ga2VahMe5WNR6gAAMmiWdtJ?usp=sharing)
 
 
 ![Slide1](https://github.com/ArindamRoy23/Book-Crossing-Dataset_Book_Recommender/blob/main/Book%20Recommender/Slide1.JPG)
