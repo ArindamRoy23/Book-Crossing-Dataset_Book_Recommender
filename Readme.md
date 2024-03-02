@@ -28,5 +28,4 @@
 ![Slide1](https://github.com/ArindamRoy23/Book-Crossing-Dataset_Book_Recommender/blob/main/Book%20Recommender/Slide28.JPG)
 ![Slide1](https://github.com/ArindamRoy23/Book-Crossing-Dataset_Book_Recommender/blob/main/Book%20Recommender/Slide29.JPG)
 ![Slide1](https://github.com/ArindamRoy23/Book-Crossing-Dataset_Book_Recommender/blob/main/Book%20Recommender/Slide30.JPG)
-![Slide1](https://github.com/ArindamRoy23/Book-Crossing-Dataset_Book_Recommender/blob/main/Book%20Recommender/Slide31.JPG)
 
